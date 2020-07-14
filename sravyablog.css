@@ -1,0 +1,15 @@
+body{
+	background-image: url(background.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+img{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+h1{
+	margin: 1.66%;
+	font-family: papyrus;
+	color: #be03fc;
+}
